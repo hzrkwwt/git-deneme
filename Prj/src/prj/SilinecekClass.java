@@ -13,4 +13,7 @@ public class SilinecekClass {
       public void denemeMetod(){
         System.out.println("deneme");
     }
+        public void denemeeMetod(){
+        System.out.println("deneme");
+    }
 }
