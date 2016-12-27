@@ -16,6 +16,7 @@ public class Prj {
      */
     public static void main(String[] args) {
          System.out.println("merhaba");
+         System.out.println("bu da değişiklik");
     }
     
 }
