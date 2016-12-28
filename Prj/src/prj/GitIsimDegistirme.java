@@ -12,5 +12,6 @@ package prj;
 public class GitIsimDegistirme {
     public void denemeMetod(){
         System.out.println("deneme");
+        System.out.println("");
     }
 }
