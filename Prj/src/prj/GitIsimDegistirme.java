@@ -9,7 +9,7 @@ package prj;
  *
  * @author Durali
  */
-public class GitDeneme2 {
+public class GitIsimDegistirme {
     public void denemeMetod(){
         System.out.println("deneme");
     }
